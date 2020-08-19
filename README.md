@@ -1,6 +1,6 @@
 # cwk-flask-boilerplate
 
-##Structure
+## Structure
 This repository represents a simple, scalable structure that works well for Flask applications meant to be packaged 
 and delivered as services/microservices. A Dockerfile for simple packaging is included.
 
